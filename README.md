@@ -8,3 +8,5 @@ One wave
 
 Two waves
 ![2wave](https://github.com/YairCCastillo/FiniteDiff/assets/49602985/4b88b420-5262-41ec-bf73-d1b288251120)
+
+Year - 2017
